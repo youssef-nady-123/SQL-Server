@@ -1,0 +1,13 @@
+Steps:
+-------------
+Open SSMS
+Connect to your server
+Right-click your database (example: SalesDB)
+Click Tasks
+Click Back Up…
+Backup type → choose Full
+Click Add
+Choose location (example:
+C:\Backups\SalesDB.bak)
+Click Ok
+✔ Done! Your .bak file is created.
